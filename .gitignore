@@ -1,0 +1,14 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Personal resume PDF
+/week1/day5/resumes/resume_iss (7).pdf
